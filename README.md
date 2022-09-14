@@ -2,4 +2,4 @@
 
 Proyecto Realizado por Kevin Figueroa & Wilton Patrocino
 
-https://rick-morty-app-kf.netlify.app/
+https://rickandmortym.netlify.app/
